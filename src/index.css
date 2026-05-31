@@ -9,6 +9,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  
 }
 
 .parent {
@@ -16,6 +17,8 @@ body {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
 }
 
 .card { 
