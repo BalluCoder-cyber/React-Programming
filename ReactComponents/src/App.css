@@ -1,0 +1,11 @@
+*{
+  color: rgb(255, 255, 255);
+  background-color: rgb(33, 33, 32);
+  align-items: center;
+  justify-content: center;
+}
+.appdiv{
+  text-align: center;
+  justify-content: center;
+  border: 2px solid yellow;
+}

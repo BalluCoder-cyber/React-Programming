@@ -1,0 +1,5 @@
+.hellodiv{
+    display: inline-block;
+    border: 2px crimson dotted ;
+    padding: 15px;
+}
